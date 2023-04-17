@@ -1,3 +1,5 @@
 # TrainAPI
 
-This Web API works with MongoDb with Docker.
+It provides to schedule trains.
+
+This Web API works with **MongoDb** with Docker.
